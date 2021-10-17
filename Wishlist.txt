@@ -13,6 +13,7 @@ dimwishlist:item=2481758391&perks=839105230,1968497646,3436462433,4267945040 //A
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040 //Arrowhead, High Cal, Surplus, FUll Auto
 dimwishlist:item=2481758391&perks=839105230,679225683,3436462433,4267945040 //Arrowhead, Light Mag, Surplus, FUll Auto
 dimwishlist:item=2481758391&perks=839105230,1968497646,1820235745,3425386926
+dimwishlist:item=2481758391&perks=4090651448,1885400500,3643424744,3425386926#notes: This is the Light.gg most popular community roll
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040#notes: This is the Light.gg second most popular community roll
 
 
