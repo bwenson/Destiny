@@ -59,6 +59,12 @@ dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717#notes:
 //Corkscrew Rifling, High-Caliber Rounds, Snapshot Sights and Opening Shot
 dimwishlist:item=852551895&perks=4090651448,1561002382,957782887,47981717#notes:PVP Roll. God Roll. Look for Range MW. Hammer-Forged and Corkscrew Rifling in the first column are both good. In the second column Ricochet Rounds and High-Caliber Rounds are both good.
 
+//High-Caliber Rounds, Snapshot Sights, Opening Shot
+dimwishlist:item=852551895&perks=1561002382,957782887,47981717#notes:PVP Roll. Hammer-Forged and Corkscrew Rifling and maybe Fluted Barrel in the first column are all good. In the second column Ricochet Rounds and High-Caliber Rounds are what you are looking for. Look for Range MW.
+
+//Ricochet Rounds, Snapshot Sights, Opening Shot
+dimwishlist:item=852551895&perks=1885400500,957782887,47981717#notes:PVP Roll. Hammer-Forged and Corkscrew Rifling and maybe Fluted Barrel in the first column are all good. In the second column Ricochet Rounds and High-Caliber Rounds are what you are looking for. Look for Range MW.
+
 //Snapshot Sights, Opening Shot
 dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP Roll. Hammer-Forged and Corkscrew Rifling and maybe Fluted Barrel in the first column are all good. In the second column Ricochet Rounds and High-Caliber Rounds are what you are looking for. Look for Range MW.
 
