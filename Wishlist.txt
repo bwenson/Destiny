@@ -7,10 +7,10 @@ dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2848615171
 
 //Darkest Before
 //notes:Arrowhead Brake, Ricochet Rounds, Surplus or Subsistence, and Full Auto with a Stability MW is probably the God Roll.
-dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,4267945040 Arrowhead, Ricochet, Surplus, Full Auto
-dimwishlist:item=2481758391&perks=839105230,1968497646,3436462433,4267945040 Arrowhead, Armor Piercing, Surplus, Full Auto
-dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040 Arrowhead, High Cal, Surplus, FUll Auto
-dimwishlist:item=2481758391&perks=839105230,679225683,3436462433,4267945040 Arrowhead, Light Mag, Surplus, FUll Auto
+dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,4267945040 //Arrowhead, Ricochet, Surplus, Full Auto
+dimwishlist:item=2481758391&perks=839105230,1968497646,3436462433,4267945040 //Arrowhead, Armor Piercing, Surplus, Full Auto
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040 //Arrowhead, High Cal, Surplus, FUll Auto
+dimwishlist:item=2481758391&perks=839105230,679225683,3436462433,4267945040 //Arrowhead, Light Mag, Surplus, FUll Auto
 dimwishlist:item=2481758391&perks=839105230,1968497646,1820235745,3425386926
 
 
