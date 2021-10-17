@@ -9,7 +9,7 @@ dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717#note
 //Occluded Finality
 dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717#notes:PVP God Roll
 //Uzume RR4 Adept
-dimwishlist:item=852228780#notes:God Roll: Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
+dimwishlist:item=852228780-1234#notes:God Roll: Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
 dimwishlist:item=852228780&perks=4090651448,3142289711,957782887,1546637391#notes:God Roll
 //Uzume RR4
 dimwishlist:item=2065081837#note:God Roll: Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
