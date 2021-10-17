@@ -15,10 +15,15 @@ dimwishlist:item=2481758391&perks=839105230,1968497646,1820235745,3425386926
 
 
 
-
-
+//Shotguns
 //Fractethyst PVP God Roll
 dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717#notes:PVP God Roll
+
+//Sniper Rifles
+//Frozen Orbit God Roll: Hammer Forged Rifling, Accurized Rounds, Moving Target, Snapshot Sights
+dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,957782887
+dimwishlist:item=3473290087&perks=2450788523,957782887
+dimwishlist:item=3473290087&perks=2866798147,957782887
 
 //Occluded Finality
 dimwishlist:item=852551895&perks=4090651448,1840239774,1885400500,957782887,47981717#notes:PVP God Roll
