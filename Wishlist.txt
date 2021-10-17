@@ -50,6 +50,7 @@ dimwishlist:item=3473290087&perks=2866798147,957782887
 //The one below is just Snapshot Sights, Opening Shot
 dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP Roll. God roll is Hammer Forged, Accurized Rounds, Snapshot Sights and Opening Shot with Range MW. 
 dimwishlist:item=852551895&perks=3250034553,1885400500,957782887,47981717#notes:PVP God Roll. This is the Smittay crutch.
+dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717#notes:PVP God Roll. This is the Smittay crutch.
 
 
 //Uzume RR4 Adept
