@@ -11,6 +11,7 @@ dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,4267945040 Arr
 dimwishlist:item=2481758391&perks=839105230,1968497646,3436462433,4267945040 Arrowhead, Armor Piercing, Surplus, Full Auto
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040 Arrowhead, High Cal, Surplus, FUll Auto
 dimwishlist:item=2481758391&perks=839105230,679225683,3436462433,4267945040 Arrowhead, Light Mag, Surplus, FUll Auto
+dimwishlist:item=2481758391&perks=839105230,1968497646,1820235745,3425386926
 
 
 
@@ -29,3 +30,8 @@ dimwishlist:item=852228780&perks=4090651448,3142289711,957782887,1546637391#note
 //Uzume RR4
 //notes:God Roll: Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
 dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391
+
+//Auto Rifles
+//Braytech Werewolf
+//notes:Vorpal is the best option in the last column. Others haven't been determined yet
+dimwishlist:item=528834068&perks=1546637391
