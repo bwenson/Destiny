@@ -7,21 +7,36 @@ dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2458213969
 dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2848615171
 
 //Darkest Before
-//notes:Arrowhead Brake, Ricochet Rounds, Surplus or Subsistence, and Full Auto with a Stability MW is probably the God Roll.
-dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,4267945040 //Arrowhead, Ricochet, Surplus, Full Auto
-dimwishlist:item=2481758391&perks=839105230,1968497646,3436462433,4267945040 //Arrowhead, Armor Piercing, Surplus, Full Auto
-dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040 //Arrowhead, High Cal, Surplus, FUll Auto
-dimwishlist:item=2481758391&perks=839105230,679225683,3436462433,4267945040 //Arrowhead, Light Mag, Surplus, FUll Auto
-dimwishlist:item=2481758391&perks=839105230,1968497646,1820235745,3425386926
+//Light.gg Rolls
 dimwishlist:item=2481758391&perks=4090651448,1885400500,3643424744,3425386926#notes: This is the Light.gg most popular community roll
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040#notes: This is the Light.gg second most popular community roll
-dimwishlist:item=2481758391&perks=1820235745,4049631843#notes:One for All and Subsistence are the Smittay PVE roll
+
+//BTheMan's Rolls:
+//Arrowhead Brake, Ricochet Rounds, Surplus
+dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). High-Caliber Rounds would be preferred over Ricochet Rounds. Tunnel Vision may be a better option over Surplus
+//Arrowhead Brake, Ricochet Rounds, Subsistence
+dimwishlist:item=2481758391&perks=839105230,1885400500,1820235745#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). High-Caliber Rounds would be preferred over Ricochet Rounds. Tunnel Vision may be a better option over Subsistence
+//Arrowhead Brake, High-Caliber Rounds, Surplus
+dimwishlist:item=2481758391&perks=839105230,1561002382,1820235745#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). Tunnel Vision may be a better option over Surplus
+//Arrowhead Brake, High-Caliber Rounds, Subsistence
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). Tunnel Vision may be a better option over Subsistence
+//Arrowhead Brake, High-Caliber Rounds, Tunnel Vision
+dimwishlist:item=2481758391&perks=839105230,1561002382,2946784966#notes:BTheMan comment:This may be a PVP God Roll with a Stability MW. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). 
+//High-Caliber Rounds & Surplus
+dimwishlist:item=2481758391&perks=1561002382,3436462433#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). Tunnel Vision may be a better option over Surplus
+//High-Caliber Rounds & Subsistence
+dimwishlist:item=2481758391&perks=1561002382,1820235745#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). Tunnel Vision may be a better option over Subsistence
+
+//Smittay's Rolls
+//PVP: This just includes High-Caliber Rounds & Tunnel Vision
+dimwishlist:item=2481758391&perks=1561002382,2946784966#notes:PVP Roll. Smittay comments: High Caliber & Tunnel Vision is key for PVP with Stability MW.  Last column options are Full Auto or Rampage. First column look for Arrowhead Break, Hammer-Forged, Smallbore or anything adding Range/Stability
+//PVE: One for All and Subsistence
+dimwishlist:item=2481758391&perks=1820235745,4049631843#notes:PVE Roll. Smittay comments: One for All and Subsistence for PVE
 
 
 
 //*** SHOTGUNS ***
 //Fractethyst
-//notes: PVP God Roll
 dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717#notes:PVP God Roll
 
 //*** SNIPER RIFLES ***
@@ -32,10 +47,9 @@ dimwishlist:item=3473290087&perks=2450788523,957782887
 dimwishlist:item=3473290087&perks=2866798147,957782887
 
 //Occluded Finality 
-//notes:God roll is Hammer Forged, Accurized Rounds, Snapshot Sights and Opening Shot with Range MW. 
 //The one below is just Snapshot Sights, Opening Shot
-dimwishlist:item=852551895&perks=957782887,47981717
-dimwishlist:item=852551895&perks=3250034553,1885400500,957782887,47981717#notes: This is the Smittay crutch.
+dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP Roll. God roll is Hammer Forged, Accurized Rounds, Snapshot Sights and Opening Shot with Range MW. 
+dimwishlist:item=852551895&perks=3250034553,1885400500,957782887,47981717#notes:PVP God Roll. This is the Smittay crutch.
 
 
 //Uzume RR4 Adept
