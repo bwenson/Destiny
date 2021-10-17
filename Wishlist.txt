@@ -16,17 +16,19 @@ dimwishlist:item=2481758391&perks=839105230,1968497646,1820235745,3425386926
 
 
 //Shotguns
-//Fractethyst PVP God Roll
+//Fractethyst
+//notes: PVP God Roll
 dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717#notes:PVP God Roll
 
 //Sniper Rifles
-//Frozen Orbit God Roll
+//Frozen Orbit
 //note:Good Roll is Hammer Forged Rifling, Accurized Rounds, Moving Target, Snapshot Sights with Range MW
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,957782887
 dimwishlist:item=3473290087&perks=2450788523,957782887
 dimwishlist:item=3473290087&perks=2866798147,957782887
 
-//Occluded Finality God roll is Hammer Forged, Accurized Rounds, Snapshot Sights and Opening Shot with Range MW.  This is the Smittay crutch.
+//Occluded Finality 
+//notes:God roll is Hammer Forged, Accurized Rounds, Snapshot Sights and Opening Shot with Range MW.  This is the Smittay crutch.
 dimwishlist:item=852551895&perks=957782887,47981717
 dimwishlist:item=852551895&perks=3250034553,1885400500,957782887,47981717
 
