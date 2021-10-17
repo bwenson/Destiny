@@ -46,3 +46,8 @@ dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391
 //notes:Vorpal is the best option in the last column. God Roll for now is Small Bore, Ricochet Rounds, Dynamic Sway Reduction, Vorpal with Stability MW. Other than Vorpal Elemental Capacity (+18 Stability if Void, +45 Handling if Solar, +45 Reload Speed if Arc, +20 Recoil Direction if Stasis) is the only other decent option.
 dimwishlist:item=528834068&perks=1359896290,1546637391
 dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1546637391
+
+//Rocket Launchers
+//Ascendancy
+//Notes: There is only one roll.
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472
