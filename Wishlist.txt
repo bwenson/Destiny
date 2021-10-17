@@ -47,10 +47,20 @@ dimwishlist:item=3473290087&perks=2450788523,957782887
 dimwishlist:item=3473290087&perks=2866798147,957782887
 
 //Occluded Finality 
-//The one below is just Snapshot Sights, Opening Shot
-dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP Roll. God roll is Hammer Forged, Accurized Rounds, Snapshot Sights and Opening Shot with Range MW. 
-dimwishlist:item=852551895&perks=3250034553,1885400500,957782887,47981717#notes:PVP God Roll. This is the Smittay crutch.
-dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717#notes:PVP God Roll. This is the Smittay crutch.
+//Hammer Forged, Ricochet Rounds, Snapshot Sights and Opening Shot
+dimwishlist:item=852551895&perks=3250034553,1885400500,957782887,47981717#notes:PVP Roll. God Roll. Look for Range MW. Hammer-Forged and Corkscrew Rifling in the first column are both good. In the second column Ricochet Rounds and High-Caliber Rounds are both good.
+
+//Hammer Forged, High-Caliber Rounds, Snapshot Sights and Opening Shot
+dimwishlist:item=852551895&perks=3250034553,1561002382,957782887,47981717#notes:PVP Roll. God Roll. Look for Range MW. Hammer-Forged and Corkscrew Rifling in the first column are both good. In the second column Ricochet Rounds and High-Caliber Rounds are both good.
+
+//Corkscrew Rifling, Ricochet Rounds, Snapshot Sights, Opening Shot
+dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717#notes:PVP Roll. God Roll. Look for Range MW. Hammer-Forged and Corkscrew Rifling in the first column are both good. In the second column Ricochet Rounds and High-Caliber Rounds are both good.
+
+//Corkscrew Rifling, High-Caliber Rounds, Snapshot Sights and Opening Shot
+dimwishlist:item=852551895&perks=4090651448,1561002382,957782887,47981717#notes:PVP Roll. God Roll. Look for Range MW. Hammer-Forged and Corkscrew Rifling in the first column are both good. In the second column Ricochet Rounds and High-Caliber Rounds are both good.
+
+//Snapshot Sights, Opening Shot
+dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP Roll. Hammer-Forged and Corkscrew Rifling and maybe Fluted Barrel in the first column are all good. In the second column Ricochet Rounds and High-Caliber Rounds are what you are looking for. Look for Range MW.
 
 
 //Uzume RR4 Adept
@@ -63,9 +73,9 @@ dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391
 
 //*** AUTO RIFLES ***
 //Braytech Werewolf
-//notes:Vorpal is the best option in the last column. God Roll for now is Small Bore, Ricochet Rounds, Dynamic Sway Reduction, Vorpal with Stability MW. Other than Vorpal Elemental Capacity (+18 Stability if Void, +45 Handling if Solar, +45 Reload Speed if Arc, +20 Recoil Direction if Stasis) is the only other decent option.
-dimwishlist:item=528834068&perks=1359896290,1546637391
+//notes:Vorpal is the best option in the last column. God Roll for now is Small Bore, Ricochet Rounds, Dynamic Sway Reduction, Vorpal with Stability MW. Other than Vorpal, Elemental Capacity (+18 Stability if Void, +45 Handling if Solar, +45 Reload Speed if Arc, +20 Recoil Direction if Stasis) is the only other decent option.
 dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1546637391
+dimwishlist:item=528834068&perks=1359896290,1546637391
 
 //*** ROCKET LAUNCHERS ***
 //Ascendancy
