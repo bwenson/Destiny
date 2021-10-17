@@ -49,5 +49,5 @@ dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1546637391
 
 //Rocket Launchers
 //Ascendancy
-//Notes: There is only one roll.
+//notes:There is only one roll.
 dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472
