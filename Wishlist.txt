@@ -33,5 +33,6 @@ dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391
 
 //Auto Rifles
 //Braytech Werewolf
-//notes:Vorpal is the best option in the last column. Others haven't been determined yet
+//notes:Vorpal is the best option in the last column. God Roll for now is Small Bore, Ricochet Rounds, Dynamic Sway Reduction, Vorpal with Stability MW
 dimwishlist:item=528834068&perks=1546637391
+dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1546637391
