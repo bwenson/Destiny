@@ -1,6 +1,7 @@
 title:BTheMan71's Wishlist
 //Jurassic Green PVP God Roll
-dimwishlist:item=-2261046232&perks=4090651448,1885400500,2846385770,2458213969#notes:PVP God Roll
+dimwishlist:item=-2261046232
+dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2458213969#notes:PVP God Roll
 dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2848615171#notes:PVP Almost god roll. Instead of Dragonfly would prefer Multikill Clip
 //Darkest Before PVP God Roll
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040#notes:PVP God Roll
