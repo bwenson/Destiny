@@ -70,12 +70,25 @@ dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP Roll. Hammer-Forge
 
 
 //Uzume RR4 Adept
-//notes:God Roll: Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
+//Light.gg
+
+
+//Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
 dimwishlist:item=852228780&perks=4090651448,3142289711,957782887,1546637391
 
 //Uzume RR4
-//notes:God Roll: Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
-dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391
+//Light.gg
+//Arrowhead Brake, Accurized Rounds, Snapshot Sights, Vorpal
+dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,1546637391#notes:Light.gg Community Roll.  Look for Range MW.
+
+//Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal
+dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391#notes:Good PVP Roll. Arrowhead brake may be a better option in the first column. Look for Range MW.
+
+//Fluted Barrel, Accurized Rounds, Snapshot Sites, Vorpal
+dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,1546637391#notes:Good PVP Roll.  Arrowhead brake or Corkscrew rifling may be better options in the first column. Look for Range MW.
+
+//Snapshot Sites, Vorpal
+dimwishlist:item=2065081837&perks=957782887,1546637391#notes:For PVP look for either Arrowhead Brake, Corkscrew Rifling or maybe Fluted Barrel in the first column. Good second column perks are Accurized Rounds and maybe Tactical Mag. Look for Range MW.
 
 //*** AUTO RIFLES ***
 //Braytech Werewolf
