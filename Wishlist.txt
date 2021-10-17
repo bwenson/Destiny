@@ -1,6 +1,15 @@
-title:BTheMan71's Wishlist
+title:The Banana Squad Wishlist
 
-//*** PULSED RIFLES ***
+//*** PULSE RIFLES ***
+
+//The Time-Worn Spire
+//True Vanguard Roll: Red Dot Micro, Rocochet Rounds, Subsistence, Iron Grip
+dimwishlist:item=3593598010&perks=2405638014,1885400500,1820235745,11551321#notes:Source: True Vanguard. He uses a Counterbalance Stock and his has a Handling MW.
+
+//Light.gg Roll
+//Rifle Scope ST, Richochet Rounds, Feeding Frenzy, Rampage
+dimwishlist:item=3593598010&perks=679077873,1885400500,2779035018,3425386926#notes:Source: Light.gg. This is the Light.gg Community Roll
+
 //Jurassic Green
 //notes:God Roll is Arrowhead Brake, Corkscrew Rounds, Rangefinder, Multikill Clip
 dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2458213969
@@ -8,6 +17,7 @@ dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2848615171
 
 //Darkest Before
 //Light.gg Rolls
+//
 dimwishlist:item=2481758391&perks=4090651448,1885400500,3643424744,3425386926#notes: This is the Light.gg most popular community roll
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040#notes: This is the Light.gg second most popular community roll
 
@@ -29,13 +39,23 @@ dimwishlist:item=2481758391&perks=1561002382,1820235745#notes:PVP Roll. Last col
 
 //Smittay's Rolls
 //PVP: This just includes High-Caliber Rounds & Tunnel Vision
-dimwishlist:item=2481758391&perks=1561002382,2946784966#notes:PVP Roll. Smittay comments: High Caliber & Tunnel Vision is key for PVP with Stability MW.  Last column options are Full Auto or Rampage. First column look for Arrowhead Break, Hammer-Forged, Smallbore or anything adding Range/Stability
+dimwishlist:item=2481758391&perks=1561002382,2946784966#notes:Source: Smittay. PVP Roll. High Caliber & Tunnel Vision is key for PVP with Stability MW.  Last column options are Full Auto or Rampage. First column look for Arrowhead Break, Hammer-Forged, Smallbore or anything adding Range/Stability
 //PVE: One for All and Subsistence
-dimwishlist:item=2481758391&perks=1820235745,4049631843#notes:PVE Roll. Smittay comments: One for All and Subsistence for PVE
+dimwishlist:item=2481758391&perks=1820235745,4049631843#notes:Source: Smittay. PVE Roll. One for All and Subsistence for PVE
 
 
+//*** FUSION RIFLES ***
+
+//Plug One.1
+//True Vanguard Roll: Corkscrew Rifling, Particle Repeater, Under Pressure, Cornered
+dimwishlist:item=1289000550&perks=4090651448,3868766766,1645158859,1799762209#notes:Source: True Vanguard.  He has a Stability MW and uses an Icarus Grip mod. Cornered is an exceptional perk, allows it to charge like a rapid fire frame.
+
+//Light.gg
+//Corkscrew Rifling, Liquid Coils, Feeding Frenzy, Resevoir Burst
+dimwishlist:item=1289000550&perks=4090651448,1687452232,2779035018,1427256713#notes:Source: Light.gg. This is the Light.gg Community Roll
 
 //*** SHOTGUNS ***
+
 //Fractethyst
 dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717#notes:PVP God Roll
 
@@ -70,33 +90,43 @@ dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP Roll. Hammer-Forge
 
 
 //Uzume RR4 Adept
+//Arrowhead Brake, Accurized Rounds, Snapshot Sites, Vorpal
+dimwishlist:item=852228780&perks=839105230,3142289711,957782887,1546637391:PVP God Roll. Look for Range
+
+//Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal 
+dimwishlist:item=852228780&perks=4090651448,3142289711,957782887,1546637391#notes:Good PVP Roll. Arrowhead brake may be a better option in the first column. Look for Range MW.
+
 //Light.gg
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391#notes:Light.gg Community Roll.  Look for Range MW. Arrowhead brake or Corkscrew Rifling are better options in the first column. Still a really good roll.
 
+//Snapshot Sights, Vorpal
+dimwishlist:item=852228780&perks=957782887,1546637391
 
-//Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
-dimwishlist:item=852228780&perks=4090651448,3142289711,957782887,1546637391
 
 //Uzume RR4
-//Light.gg
-//Arrowhead Brake, Accurized Rounds, Snapshot Sights, Vorpal
-dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,1546637391#notes:Light.gg Community Roll.  Look for Range MW.
+//Arrowhead Brake, Accurized Rounds, Snapshot Sites, Vorpal
+dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,1546637391:PVP God Roll. Look for Range MW.
 
 //Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal
 dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391#notes:Good PVP Roll. Arrowhead brake may be a better option in the first column. Look for Range MW.
 
-//Fluted Barrel, Accurized Rounds, Snapshot Sites, Vorpal
-dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,1546637391#notes:Good PVP Roll.  Arrowhead brake or Corkscrew rifling may be better options in the first column. Look for Range MW.
+//Light.gg
+//Arrowhead Brake, Accurized Rounds, Snapshot Sights, Vorpal
+dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,1546637391#notes:Light.gg Community Roll.  Look for Range MW.
 
 //Snapshot Sites, Vorpal
 dimwishlist:item=2065081837&perks=957782887,1546637391#notes:For PVP look for either Arrowhead Brake, Corkscrew Rifling or maybe Fluted Barrel in the first column. Good second column perks are Accurized Rounds and maybe Tactical Mag. Look for Range MW.
 
+
 //*** AUTO RIFLES ***
+
 //Braytech Werewolf
 //notes:Vorpal is the best option in the last column. God Roll for now is Small Bore, Ricochet Rounds, Dynamic Sway Reduction, Vorpal with Stability MW. Other than Vorpal, Elemental Capacity (+18 Stability if Void, +45 Handling if Solar, +45 Reload Speed if Arc, +20 Recoil Direction if Stasis) is the only other decent option.
 dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1546637391
 dimwishlist:item=528834068&perks=1359896290,1546637391
 
+
 //*** ROCKET LAUNCHERS ***
+
 //Ascendancy
-//notes:There is only one roll.
-dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472#notes:There is only one roll.
