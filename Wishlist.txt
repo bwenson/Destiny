@@ -6,5 +6,11 @@ dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2848615171#no
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040#notes:PVP God Roll
 //Fractethyst PVP God Roll
 dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717#notes:PVP God Roll
-dimwishlist:item=3184681056#notes:Test Notes
+//Occluded Finality
 dimwishlist:item=852551895&perks=4090651448,1885400500,957782887,47981717#notes:PVP God Roll
+//Uzume RR4 Adept
+dimwishlist:item=852228780#notes:God Roll: Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
+dimwishlist:item=852228780&perks=4090651448,3142289711,957782887,1546637391#notes:God Roll
+//Uzume RR4
+dimwishlist:item=2065081837#note:God Roll: Corscrew Rifling, Accurized Rounds, Snapshot Sites, Vorpal with Range Masterwork
+dimwishlist:item=2065081837&perks=4090651448,3142289711,957782887,1546637391#notes:God Roll
