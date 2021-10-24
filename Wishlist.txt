@@ -44,6 +44,25 @@ dimwishlist:item=2481758391&perks=1561002382,2946784966#notes:Source: Smittay. P
 dimwishlist:item=2481758391&perks=1820235745,4049631843#notes:Source: Smittay. PVE Roll. One for All and Subsistence for PVE
 
 
+//*** Scout Rifles ***
+//Contingency Plan
+//Arrowhead Brake, Accurized Rounds, Tunnel Vision, Kill Clip
+dimwishlist:item=577528837&perks=839105230,3142289711,2946784966,1015611457#motes:Tag:PVP Source:BTheMan Arrowhead Brake is almost a must.  The gun out of the box comes with a 53 recoil direction.  Kill clip is the only mod in the fourth column worth anything. Look for Range MW.
+
+//Arrowhead Brake, Accurized Rounds, Outlaw, Kill Clip
+dimwishlist:item=577528837&perks=839105230,3142289711,1168162263,1015611457#notes:Tag:PVP Source: BTheMan Arrowhead Brake is almost a must.  The gun out of the box comes with a 53 recoil direction.  Kill clip is the only mod in the fourth column worth anything. Personally prefer Tunnel Vision over Outlaw.  Look for Range MW.
+
+//Fluted Barrel, Accurized Rounds, Tunnel Vision, Kill Clip
+dimwishlist:item=577528837&perks=202670084,3142289711,2946784966,1015611457#notes:Tag:PVP Source: BTheMan Arrowhead Brake is almost a must but Fluted Barrel is a decent second choice. Kill clip is the only mod in the fourth column worth anything. Personally prefer Tunnel Vision over Outlaw.  Look for Range MW.
+
+//Light.gg
+//Fluted Barrel, Accurized Rounds, Outlaw, Kill Clip
+dimwishlist:item=577528837&perks=1840239774,3142289711,1168162263,1015611457#notes:Source:Light.gg Tag:PVP Arrowhead Brake is almost a must but Fluted Barrel is a decent second choice. Kill clip is the only mod in the fourth column worth anything. Personally prefer Tunnel Vision over Outlaw.  Look for Range MW.
+
+//Arrowhead Brake, Accurized Rounds, Kill Clip
+dimwishlist:item=577528837&perks=202670084,3142289711,1015611457#notes:Tag:PVP Arrowhead Brake is almost a must.  The gun out of the box comes with a 53 recoil direction.  Kill clip is the only mod in the fourth column worth anything. Personally prefer Tunnel Vision over Outlaw in the third column but there isn't much great there.  Look for Range MW.
+
+
 //*** FUSION RIFLES ***
 
 //Plug One.1
