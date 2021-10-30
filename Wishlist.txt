@@ -26,8 +26,6 @@ dimwishlist:item=2481758391&perks=4090651448,1885400500,3643424744,3425386926#no
 //Arrowhead Brake, High-Caliber Rounds, Surplus, Full Auto Trigger System
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040#notes: This is the Light.gg second most popular community roll
 
-
-
 //BTheMan's Rolls:
 //Arrowhead Brake, Ricochet Rounds, Surplus
 dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). High-Caliber Rounds would be preferred over Ricochet Rounds. Tunnel Vision may be a better option over Surplus
@@ -47,8 +45,6 @@ dimwishlist:item=2481758391&perks=1561002382,1820235745#notes:PVP Roll. Last col
 //Smittay's Rolls
 //PVP: This just includes High-Caliber Rounds & Tunnel Vision
 dimwishlist:item=2481758391&perks=1561002382,2946784966#notes:Source: Smittay. PVP Roll. High Caliber & Tunnel Vision is key for PVP with Stability MW.  Last column options are Full Auto or Rampage. First column look for Arrowhead Break, Hammer-Forged, Smallbore or anything adding Range/Stability
-//PVE: One for All and Subsistence
-dimwishlist:item=2481758391&perks=1820235745,4049631843#notes:Source: Smittay. PVE Roll. One for All and Subsistence for PVE
 
 
 //*** SCOUT RIFLES ***
