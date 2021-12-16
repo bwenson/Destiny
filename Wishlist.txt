@@ -1,5 +1,10 @@
 title:The Banana Squad Wishlist
 
+//Generally good perk pairings:
+//Tunnel Vision & Kill Clip
+//Heating Up & Rampage
+//Adagio & Killing Wind
+
 //*** PULSE RIFLES ***
 
 //The Time-Worn Spire
@@ -11,14 +16,15 @@ dimwishlist:item=3593598010&perks=2405638014,1885400500,1820235745,11551321#note
 dimwishlist:item=3593598010&perks=679077873,1885400500,2779035018,3425386926#notes:Source: Light.gg. This is the Light.gg Community Roll
 
 //Jurassic Green
+
 //Arrowhead Brake, Ricochet Rounds, Rangefinder, Multikill Clip
 dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2458213969#notes:Tag:PVP Source: BTheMan
 //Corkscrew Rifling, Ricochet Rounds, Rangefinder, Multikill Clip
-dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2458213969#notes:Tag:PVP Source: BTheMan Would prefer Arrowhead Brake over Corkscrew
 //Arrowhead Brake, Ricochet Rounds, Rangefinder, Dragonfly
-dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2848615171
+dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2848615171#notes:Tag:PVP Source: BTheMan
 //Corkscrew Rifling, Ricochet Rounds, Rangefinder, Dragonfly
-dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2848615171
+dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2848615171#notes:Tag:PVP Source: BTheMan Would prefer Arrowhead Brake over Corkscrew
 
 //Darkest Before
 
@@ -46,10 +52,18 @@ dimwishlist:item=2481758391&perks=839105230,1561002382,2946784966#notes:BTheMan 
 dimwishlist:item=2481758391&perks=1561002382,3436462433#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). Tunnel Vision may be a better option over Surplus
 //High-Caliber Rounds & Subsistence
 dimwishlist:item=2481758391&perks=1561002382,1820235745#notes:PVP Roll. Last column look for Rampage, Full Auto, Elemental Capacitor and maybe Wellspring (no good options really). Tunnel Vision may be a better option over Subsistence
-
-//Smittay's Rolls
+//Smittay's Roll
 //PVP: This just includes High-Caliber Rounds & Tunnel Vision
 dimwishlist:item=2481758391&perks=1561002382,2946784966#notes:Source: Smittay. PVP Roll. High Caliber & Tunnel Vision is key for PVP with Stability MW.  Last column options are Full Auto or Rampage. First column look for Arrowhead Break, Hammer-Forged, Smallbore or anything adding Range/Stability
+
+//BxR-55 Battler
+//Chambered Compensator, Accurized Rounds, Killing Wind, Elemental Capacitor
+dimwishlist:item=2708806099&perks=3661387068,3142289711,2450788523,3511092054#notes:Source Aztecross Tag:PVP His roll for PVP. Elemental capacitor pairs well with Stasis subclasses. +20 recoil and increases movement speed while aiming down sites. Blunt Execution rounds are not a good choice as they are very situational. Basically have to melee first at close range to proc.
+//Smallbore, Light Mag, Perpetual Motion, Adrenaline Junkie
+dimwishlist:item=2708806099&perks=1482024992,679225683,1428297954,11612903#notes:Source Aztecross Tag:PVP This is a roll he was using in his video. . Blunt Execution rounds are not a good choice as they are very situational. Basically have to melee first at close range to proc.
+//Perpetual Motion, Kill Clip
+dimwishlist:item=2708806099&perks=1428297954,1015611457#notes:Source Aztecross Tag:PVP Perpetual Motion and Kill clip pair well together. Plenty of good options in the first two slots like Smallbore, Chambered Compensator and Accurized Rounds, Light Mag
+//Perpetual Motion, Elmental Capacitor#notes:Source Aztecross Tag:PVP Perpetual Motion and Perpetual Motion pair well together especially on a Stasis subclass. Plenty of good options in the first two slots like Smallbore, Chambered Compensator and Accurized Rounds, Light Mag
 
 
 //*** SCOUT RIFLES ***
@@ -72,9 +86,21 @@ dimwishlist:item=577528837&perks=1840239774,3142289711,1168162263,1015611457#not
 dimwishlist:item=577528837&perks=202670084,3142289711,1015611457#notes:Tag:PVP Arrowhead Brake is almost a must.  The gun out of the box comes with a 53 recoil direction.  Kill clip is the only mod in the fourth column worth anything. Personally prefer Tunnel Vision over Outlaw in the third column but there isn't much great there.  Look for Range MW.
 
 //Servant Leader
-
-//Light.gg
-
+//Arrowhead Brake, Accurized Rounds, Outlaw, Kill Clip
+dimwishlist:item=1107446438&perks=839105230,3142289711,1168162263,1015611457#notes:Source BTheMan Tag:PVP
+//Arrowhead Brake, Accurized Rounds, Tunnel Vision, Kill Clip
+dimwishlist:item=1107446438&perks=839105230,3142289711,2946784966,1015611457notes:Source BTheMan Tag:PVP
+//Arrowhead Brake, Accurized Rounds, Rapid Hit, Kill Clip
+dimwishlist:item=1107446438&perks=839105230,3142289711,247725512,1015611457#notes:Source BTheMan Tag:PVP
+//Arrowhead Brake, Accurized Rounds, Heating Up, Rampage
+dimwishlist:item=1107446438&perks=839105230,3142289711,1570042021,3425386926#notes:Source BTheMan Tag:PVP
+//Outlaw, Kill Clip
+dimwishlist:item=1107446438&perks=1168162263,1015611457#notes:Source BTheMan Look for Arrowhead Brake, Chambered Compensator, Corkscrew Rifling or Polygonal Rifling for Barrel options. For the magazine good choices are Accurized Rounds, Tactical Mag or Steady Rounds Flared Magwell
+//Tunnel Vision, Kill Clip
+dimwishlist:item=1107446438&perks=2946784966,1015611457#notes:Source BTheMan Look for Arrowhead Brake, Chambered Compensator, Corkscrew Rifling or Polygonal Rifling for Barrel options. For the magazine good choices are Accurized Rounds, Tactical Mag or Steady Rounds Flared Magwell
+//Heating Up, Rampage
+dimwishlist:item=1107446438&perks=1570042021,3425386926
+#notes:Source BTheMan Look for Arrowhead Brake, Chambered Compensator, Corkscrew Rifling or Polygonal Rifling for Barrel options. For the magazine good choices are Accurized Rounds, Tactical Mag or Steady Rounds Flared Magwell
 
 //*** FUSION RIFLES ***
 
@@ -94,9 +120,9 @@ dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717#note
 //*** SNIPER RIFLES ***
 //Frozen Orbit
 //notes:Good Roll is Hammer Forged Rifling, Accurized Rounds, Moving Target, Snapshot Sights with Range MW
-dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,957782887
-dimwishlist:item=3473290087&perks=2450788523,957782887
-dimwishlist:item=3473290087&perks=2866798147,957782887
+dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,957782887#notes: Source BTheMan
+dimwishlist:item=3473290087&perks=2450788523,957782887#notes:Source BTheMan
+dimwishlist:item=3473290087&perks=2866798147,957782887#notes:Source BTheMan
 
 //Occluded Finality 
 //Hammer Forged, Ricochet Rounds, Snapshot Sights and Opening Shot
@@ -119,6 +145,8 @@ dimwishlist:item=852551895&perks=1885400500,957782887,47981717#notes:PVP Roll. H
 
 //Snapshot Sights, Opening Shot
 dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP Roll. Hammer-Forged and Corkscrew Rifling and maybe Fluted Barrel in the first column are all good. In the second column Ricochet Rounds and High-Caliber Rounds are what you are looking for. Look for Range MW.
+
+//1000 Yard Stare
 
 
 //Uzume RR4 Adept
@@ -149,6 +177,11 @@ dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,1546637391#note
 //Snapshot Sites, Vorpal
 dimwishlist:item=2065081837&perks=957782887,1546637391#notes:For PVP look for either Arrowhead Brake, Corkscrew Rifling or maybe Fluted Barrel in the first column. Good second column perks are Accurized Rounds and maybe Tactical Mag. Look for Range MW.
 
+//1000 Yard Stare
+//Heating Up, Snapshot Sites
+dimwishlist:item=4164201232&perks=1570042021,957782887#notes:Source:Coolguy Tag:PVP Heating Up This is a bit of hidden god roll.  Heating up x1 = 15% Accuracy Cone Growth + 15 Stability and + 15 Recoil Direction.  X2 = 30,30,30. Even at x1 it's better than opening shot (+10% accuracy) which doesn't drop on this weapon.  Look for Arrowhead Brake or Fluted Barrel in the barrel slot and Accurized Rounds or Tactical Mag for the magazine.
+//Quick Draw, Snapshot Sites
+dimwishlist:item=4164201232&perks=706527188,957782887#notes:Source:Everyone that has ever used a Sniper Rifle. This is good #2 roll. The ideal roll is Heating up with Snapshot sites. Look for Arrowhead Brake or Fluted Barrel in the barrel slot and Accurized Rounds or Tactical Mag for the magazine.
 
 //*** AUTO RIFLES ***
 
