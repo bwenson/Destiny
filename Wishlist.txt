@@ -11,8 +11,13 @@ dimwishlist:item=3593598010&perks=2405638014,1885400500,1820235745,11551321#note
 dimwishlist:item=3593598010&perks=679077873,1885400500,2779035018,3425386926#notes:Source: Light.gg. This is the Light.gg Community Roll
 
 //Jurassic Green
-//notes:God Roll is Arrowhead Brake, Corkscrew Rounds, Rangefinder, Multikill Clip
+//Arrowhead Brake, Ricochet Rounds, Rangefinder, Multikill Clip
+dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2458213969#notes:Tag:PVP Source: BTheMan
+//Corkscrew Rifling, Ricochet Rounds, Rangefinder, Multikill Clip
 dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2458213969
+//Arrowhead Brake, Ricochet Rounds, Rangefinder, Dragonfly
+dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2848615171
+//Corkscrew Rifling, Ricochet Rounds, Rangefinder, Dragonfly
 dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2848615171
 
 //Darkest Before
