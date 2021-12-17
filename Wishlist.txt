@@ -10,7 +10,7 @@ title:The Banana Squad Wishlist
 
 //Judgment
 //Fastdraw HCS, Accurized Rounds, Moving Target, Timed Payload
-dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,1954620775#notes:Source:Banasquad Another one of Smittay's crutches.
+dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,1954620775#notes:Source:BananaSquad Another one of Smittay's crutches.
 
 //Eyasluna
 //Fastdraw HCS, High Caliber Rounds, Perpetual Motion, Kill Clip
