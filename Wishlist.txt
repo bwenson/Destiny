@@ -10,8 +10,8 @@ title:The Banana Squad Wishlist
 
 //Eyasluna
 //Fastdraw HCS, High Caliber Rounds, Perpetual Motion, Kill Clip
-#notes:Source:True Vanguard He is not a fan of the Rangefinder perk. His feeling is that there is diminishing returns on RF as the gun already has 85 Aim Assist.
-//Perpetual Motion, Kill Clip.  The Fastdraw HCS sight has a +15 Handling improvement that he says is "no joke." Perpetual Motion (stability, handling and reload buffs) is great because you are always moving and the perk is almost always up. 
+dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457#notes:Source:True Vanguard He is not a fan of the Rangefinder perk. His feeling is that there is diminishing returns on RF as the gun already has 85 Aim Assist. The Fastdraw HCS sight has a +15 Handling improvement that he says is "no joke." Perpetual Motion (stability, handling and reload buffs) is great because you are always moving and the perk is almost always up. 
+//Perpetual Motion, Kill Clip.
 dimwishlist:item=235827225&perks=1428297954,1015611457#notes:Source:Aztecross He recommends four different potential combinations: Perpetual Motion/Kill Ckip, Rangefinder/Kill Clip, Rangefinder/Moving Target and Perpetual Motion/Moving Target. For scopes look for Fastdraw HCS, SteadyHand HCS or Truesight HCS. In the magazine slot look for High Caliber Rounds or Ricochet rounds.
 dimwishlist:item=235827225&perks=2846385770,1015611457//Rangefinder, Kill Clip
 #notes:Source:Aztecross He recommends four different potential combinations: Perpetual Motion/Kill Ckip, Rangefinder/Kill Clip, Rangefinder/Moving Target and Perpetual Motion/Moving Target. For scopes look for Fastdraw HCS, SteadyHand HCS or Truesight HCS. In the magazine slot look for High Caliber Rounds or Ricochet rounds.
