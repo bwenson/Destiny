@@ -135,6 +135,7 @@ dimwishlist:item=1030895163&perks=1820235745,1427256713#notes:Source:Aztecross P
 dimwishlist:item=1030895163&perks=3436462433,2213355989#notes:Source:Aztecross PVP second choice roll. Surplus is great with Firebolt grenade as its cooldown is so short.  Look for Particle Repeater in the battery slot.
 
 
+
 //*** SHOTGUNS ***
 
 //Fractethyst
