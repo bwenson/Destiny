@@ -117,6 +117,7 @@ dimwishlist:item=528834068&perks=1359896290,1546637391
 
 
 //*** FUSION RIFLES ***
+
 //Plug One.1
 //True Vanguard Roll: Corkscrew Rifling, Particle Repeater, Under Pressure, Cornered
 dimwishlist:item=1289000550&perks=4090651448,3868766766,1645158859,1799762209#notes:Source:True Vanguard.  He has a Stability MW and uses an Icarus Grip mod. Cornered is an exceptional perk, allows it to charge like a rapid fire frame.
