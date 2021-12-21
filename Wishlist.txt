@@ -24,6 +24,8 @@ dimwishlist:item=235827225&perks=2846385770,1015611457#notes:Source:Aztecross He
 dimwishlist:item=235827225&perks=2846385770,588594999#notes:Source:Aztecross He recommends four different potential combinations: Perpetual Motion/Kill Ckip, Rangefinder/Kill Clip, Rangefinder/Moving Target and Perpetual Motion/Moving Target. For scopes look for Fastdraw HCS, SteadyHand HCS or Truesight HCS. In the magazine slot look for High Caliber Rounds or Ricochet rounds.
 //Perpectual Motion, Moving Target
 dimwishlist:item=235827225&perks=1428297954,588594999#notes:Source:Aztecross This one would be a very good duelling weapon for 1v1s. He recommends four different potential combinations: Perpetual Motion/Kill Ckip, Rangefinder/Kill Clip, Rangefinder/Moving Target and Perpetual Motion/Moving Target. For scopes look for Fastdraw HCS, SteadyHand HCS or Truesight HCS. In the magazine slot look for High Caliber Rounds or Ricochet rounds.
+//Headstone
+dimwishlist:item=235827225&perks=124408337#notes:Source Lucky10P Tag:PVE Headstone is the main perk you are looking for. It's great in PVE. The first choice for the second perk is Unrelenting although there are other good options. Appended Mag is probably the best choice for the magazine. Sites don't really matter for PVE. Look for a Reload MW.
 
 //Annual Skate
 //Accurized Rounds, Surplus, Timed Payload
