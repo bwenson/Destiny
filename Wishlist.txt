@@ -18,8 +18,8 @@ dimwishlist:item=1476654960&perks=588594999,1954620775#notes:Source:BananaSquad 
 dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,1015611457#notes:Source:True Vanguard He is not a fan of the Rangefinder perk. His feeling is that there is diminishing returns on RF as the gun already has 85 Aim Assist. The Fastdraw HCS sight has a +15 Handling improvement that he says is "no joke." Perpetual Motion (stability, handling and reload buffs) is great because you are always moving and the perk is almost always up. 
 //Perpetual Motion, Kill Clip.
 dimwishlist:item=235827225&perks=1428297954,1015611457#notes:Source:Aztecross He recommends four different potential combinations: Perpetual Motion/Kill Ckip, Rangefinder/Kill Clip, Rangefinder/Moving Target and Perpetual Motion/Moving Target. For scopes look for Fastdraw HCS, SteadyHand HCS or Truesight HCS. In the magazine slot look for High Caliber Rounds or Ricochet rounds.
-dimwishlist:item=235827225&perks=2846385770,1015611457//Rangefinder, Kill Clip
-#notes:Source:Aztecross He recommends four different potential combinations: Perpetual Motion/Kill Ckip, Rangefinder/Kill Clip, Rangefinder/Moving Target and Perpetual Motion/Moving Target. For scopes look for Fastdraw HCS, SteadyHand HCS or Truesight HCS. In the magazine slot look for High Caliber Rounds or Ricochet rounds.
+//Rangefinder, Kill Clip
+dimwishlist:item=235827225&perks=2846385770,1015611457#notes:Source:Aztecross He recommends four different potential combinations: Perpetual Motion/Kill Ckip, Rangefinder/Kill Clip, Rangefinder/Moving Target and Perpetual Motion/Moving Target. For scopes look for Fastdraw HCS, SteadyHand HCS or Truesight HCS. In the magazine slot look for High Caliber Rounds or Ricochet rounds.
 //Rangefinder, Moving Target
 dimwishlist:item=235827225&perks=2846385770,588594999#notes:Source:Aztecross He recommends four different potential combinations: Perpetual Motion/Kill Ckip, Rangefinder/Kill Clip, Rangefinder/Moving Target and Perpetual Motion/Moving Target. For scopes look for Fastdraw HCS, SteadyHand HCS or Truesight HCS. In the magazine slot look for High Caliber Rounds or Ricochet rounds.
 //Perpectual Motion, Moving Target
@@ -151,16 +151,14 @@ dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717#notes
 
 //Matador 64
 //Full Choke, Accurized Rounds, Perpetual Motion, Opening Shot
-dimwishlist:item=2563012876&perks=1047830412,3142289711,1428297954,47981717#notes:Source:Everyone This is the God Roll. Range (Preferred) or Handling MW.  ZKMushroom thinks Threat Detector would be better than Perpetual Motion. Lucky10P thinks this is the god roll.
+dimwishlist:item=2563012876&perks=1047830412,3142289711,1428297954,47981717#notes:Source:Everyone This is the God Roll. Range (Preferred) or Handling MW.  ZKMushroom thinks Threat Detector would be better than Perpetual Motion. Lucky10P thinks this is the god roll. This is the God Roll for True Vanguard.
 //Full Choke, Accurized Rounds, Threat Detector, Opening Shot
 dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717#notes:Source:ZKMushroom He thinks this is the God Roll. He didn't have one when he said that but he feels like Threat Detector may be better. Threat Detector adds 15 stability, 15 reload and 25% better handling when within 15M to one enemy. It goes to +40, +55 and +43% when within 15M of two enemies. We don't know the numbers for Perpetual Motion.
 //Perpetual Motion, Opening Shot
-dimwishlist:item=2563012876&perks=1428297954,47981717#notes:Source:BananaSquad Look for Full Choke for the barrel. For the magazine Accurized Rounds is preferred but Assault Mag is a good second choice. ZKMushroom thinks Threat Detector would be better. Pulse Monitor may also be a better option.
-//Threat Detector, Opening Shot
-dimwishlist:item=2563012876&perks=4071163871,47981717#notes:Source:BananaSquad Look for Full Choke for the barrel. For the magazine Accurized Rounds is preferred but Assault Mag is a good second choice. ZKMushroom thinks Full Choke, Accurized Rounds, Opening Shot may be the god roll.
+dimwishlist:item=2563012876&perks=1428297954,47981717#notes:Source:BananaSquad Look for Full Choke (first choice) or Rifled Barrel for the barrel. For the magazine Accurized Rounds is preferred but Assault Mag or Light Mag are good second choices. ZKMushroom is a big fan of the Threat Detector. True Vanguard ranks those second slot perks in this order: #1 Perpetual Motion, #2 Pulse Monitor (heavily underrated), #3 Threat Detector. Any one of those is a good pick. First slot is hands down Opening Shot.
+dimwishlist:item=2563012876&perks=4071163871,47981717#notes:Source:BananaSquad Look for Full Choke (first choice) or Rifled Barrel for the barrel. For the magazine Accurized Rounds is preferred but Assault Mag or Light Mag are good second choices. ZKMushroom is a big fan of the Threat Detector. True Vanguard ranks those second slot perks in this order: #1 Perpetual Motion, #2 Pulse Monitor (heavily underrated), #3 Threat Detector. Any one of those is a good pick. First slot is hands down Opening Shot.
 //Pulse Monitor, Opening Shot
-dimwishlist:item=2563012876&perks=4071163871,47981717#notes:Source:BananaSquad Look for Full Choke for the barrel. For the magazine Accurized Rounds is preferred but Assault Mag is a good second choice. ZKMushroom thinks Threat Detector may be better. Pulse Monitor may be a real good option depending on how the buff works out.
-
+dimwishlist:item=2563012876&perks=4071163871,47981717#notes:Source:BananaSquad Look for Full Choke (first choice) or Rifled Barrel for the barrel. For the magazine Accurized Rounds is preferred but Assault Mag or Light Mag are good second choices. ZKMushroom is a big fan of the Threat Detector. True Vanguard ranks those second slot perks in this order: #1 Perpetual Motion, #2 Pulse Monitor (heavily underrated), #3 Threat Detector. Any one of those is a good pick. First slot is hands down Opening Shot.
 
 //***SMGS***
 
