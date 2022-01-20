@@ -261,7 +261,9 @@ dimwishlist:item=2714022207&perks=972757866,2213355989#notes:Source:KhackisHD Du
 //High Impact Reserves
 dimwishlist:item=2714022207&perks=2213355989#notes:Source:KhackisHD Due to the Vorpal damage reduction, High Impact Reserves allows the Corsair's do to more damage than a Vorpal linear fusion rifle. The ideal first perk slot is Pulse Monitor.  Outlaw is a good second choice. Fluted Barrel or Small Bore are the best barrel options. Battery options are decent across the board but Liquid Coils, Ionized Battery or Enhanced Battery are probably the best options.
 
+
 //*** MACHINE GUNS ***
+
 
 //Avalanche
 //Subsistence, Adrenaline Junkie
