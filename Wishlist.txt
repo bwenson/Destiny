@@ -36,6 +36,7 @@ dimwishlist:item=6857689&perks=3436462433,1954620775#notes:Source:Aztecross "Thi
 
 //*** PULSE RIFLES ***
 
+
 //The Time-Worn Spire
 //True Vanguard Roll: Red Dot Micro, Rocochet Rounds, Subsistence, Iron Grip
 dimwishlist:item=3593598010&perks=2405638014,1885400500,1820235745,11551321#notes:Source:True Vanguard. He uses a Counterbalance Stock and his has a Handling MW.
