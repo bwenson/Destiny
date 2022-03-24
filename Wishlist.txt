@@ -172,6 +172,12 @@ dimwishlist:item=2563012876&perks=4071163871,47981717#notes:Source:BananaSquad L
 //Pulse Monitor, Opening Shot
 dimwishlist:item=2563012876&perks=4071163871,47981717#notes:Source:BananaSquad Look for Full Choke (first choice) or Rifled Barrel for the barrel. For the magazine Accurized Rounds is preferred but Assault Mag or Light Mag are good second choices. ZKMushroom is a big fan of the Threat Detector. True Vanguard ranks those second slot perks in this order: #1 Perpetual Motion, #2 Pulse Monitor (heavily underrated), #3 Threat Detector. Any one of those is a good pick. First slot is hands down Opening Shot.
 
+
+//***AUTO RIFLES***
+
+//Krait (Basically the new Valakadin)
+dimwishlist:item=2852052802,1820235745,124408337#notes:Source:MyFi: Barrel Traits:Arrowhead Brake/Small Bore or anything with Stability that doesn't murder other stats. For the Magazine Traits it depends on what you get in the other columns that you need to make up for. 
+
 //***SMGS***
 
 //Shayura's Wrath
