@@ -36,6 +36,9 @@ dimwishlist:item=6857689&perks=3436462433,1954620775#notes:Source:Aztecross "Thi
 
 //*** PULSE RIFLES ***
 
+//The Third Axiom
+//True Vanguard Roll: Headseeker, Zen Moment, Ricochet Rounds, Hammer Forged, Range MW
+dimwishlist:item=4156253727&perks=3250034553,1885400500,2387244414,460017080#notes:Source: True Vanguard. With the Zen Moment buff in Lightfall this is a a very solid dualing pulse rifle for PVP. Looking for a Range MW. 
 
 //The Time-Worn Spire
 //True Vanguard Roll: Red Dot Micro, Rocochet Rounds, Subsistence, Iron Grip
