@@ -1,4 +1,4 @@
-title:The Banana Squad Wishlist
+title:OG Banana Squad Wishlist
 
 //Generally good perk pairings:
 //Tunnel Vision & Kill Clip
@@ -273,7 +273,6 @@ dimwishlist:item=2714022207&perks=2213355989#notes:Source:KhackisHD Due to the V
 
 
 //*** MACHINE GUNS ***
-
 
 //Avalanche
 //Subsistence, Adrenaline Junkie
