@@ -140,7 +140,7 @@ dimwishlist:item=2852052802,3643424744,124408337#notes:Source:MyFi: Barrel Trait
 
 //Axial Lacuna
 //Full Bore, Projection Fuse, Keep Away, Vorpal
-dimwishlist:item=3867373351&perks=202670084,2969185026,3619207468,1546637391#notes:Source:Jedii Gaming - MW Charge Time - Basic fusion that will go to 99 range with enhanced versions of these traits. 
+dimwishlist:item=3867373351&perks=202670084,2969185026,3198323828,3418165135#notes:Source:Jedii Gaming - MW Charge Time - Basic fusion that will go to 99 range with enhanced versions of these traits. 
  Enhanced Vorpal is there to add 5 to stability. Tag: PVP  
 
 //Plug One.1
