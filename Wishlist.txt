@@ -10,7 +10,7 @@ title:OG Banana Squad Wishlist
 
 //Bold Endings
 //Fluted Barrel, Flared Magwell, Enhanced Headstone, Enhanced Demolitionist
-dimwishlist:item=496728945&perks=1840239774,3230963543,1171887445,1906147653#notes:Source:Coolguy
+dimwishlist:item=496728945&perks=1840239774,3230963543,1171887445,1906147653#notes:Source:OG Banana via Coolguy - Reload MW Tag:PVE
 
 //Judgment
 //Fastdraw HCS, Accurized Rounds, Moving Target, Timed Payload
@@ -206,6 +206,10 @@ dimwishlist:item=1506719573&perks=706527188,438098033#notes:Source:Aztecross Sec
 
 
 //*** SNIPER RIFLES ***
+
+//Embraced Identity
+//Polygonial Rifling, Tactical Mag, Rewind Rounds, Precision Instrument
+dimwishlist:item=2821677368&perks=1392496348,106909392,1563455254,332733060#notes:Source:OG Banana via Jedii Gaming - Stability MW Tag:PVE
 
 //Frozen Orbit
 //notes:Source:BananaSquad God Roll is Hammer Forged Rifling, Accurized Rounds, Moving Target, Snapshot Sights
