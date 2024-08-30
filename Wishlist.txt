@@ -7,7 +7,6 @@ title:OG Banana Squad Wishlist
 
 //Stoicism
 //Inmost Light, Star-Eater
-dimwishlist:item=266021826&perks=1476923953,3573490511#notes:Sourece:OG Banana Squad
 dimwishlist:item=266021826&perks=1476923953,1476923955#notes:Sourece:OG Banana Squad
 
 //*** HAND CANNONS ***
