@@ -7,7 +7,49 @@ title:OG Banana Squad Wishlist
 
 //Stoicism
 //Inmost Light, Star-Eater
-dimwishlist:item=266021826&perks=1476923953,1476923955#notes:Sourece:OG Banana Squad
+dimwishlist:item=266021826&perks=1476923953,1476923955#notes:Sourece:OG Banana Squad PVE Second Choice 
+//Inmost Light, Synthoceps
+dimwishlist:item=266021826&perks=1476923953,1476923956#notes:Sourece:OG Banana Squad PVE First Choice 
+//Inmost Light, Contact
+dimwishlist:item=266021826&perks=1476923953,3573490504#notes:Sourece:OG Banana Squad PVE Third Choice
+//Ophidian, Scars 
+dimwishlist:item=266021826&perks=1476923954,3573490507#notes:Sourece:OG Banana Squad PVP First Choice 
+//Ophidian, Contact
+dimwishlist:item=266021826&perks=1476923954,3573490504#notes:Sourece:OG Banana Squad PVP Second Choice 
+
+//Relativism 
+//Caliban, Liar
+dimwishlist:item=2809120022&perks=3751917996,3751917992#notes:Source:OG Banana Squad PVE First Choice
+//Caliban, Synthoceps
+dimwishlist:item=2809120022&perks=3751917996,1476923956#notes:Source:OG Banana Squad PVE Second Choice
+//Ophidian, Sixth Coyote
+dimwishlist:item=2809120022&perks=1476923954,3751917990#notes:Source:OG Banana Squad PVP First Choice
+//Ophidian, Worm Husk
+dimwishlist:item=2809120022&perks=1476923954,3751917991#notes:Source:OG Banana Squad PVP Second Choice
+
+//Solipsism 2273643087
+//Assassin, Synthoceps
+dimwishlist:item=2273643087&perks=1476923952,1476923956#notes:Source:OG Banana Squad PVE
+//Inmost Light, Harmony
+dimwishlist:item=2273643087&perks=1476923953,183430254#notes:Source:OG Banana Squad PVE
+//Inmost Light, Star-Eater
+dimwishlist:item=2273643087&perks=1476923953,1476923955#notes:Source:OG Banana Squad PVE
+//Inmost Light, Verity
+dimwishlist:item=2273643087&perks=1476923953,1476923957#notes:Source:OG Banana Squad PVE
+//Inmost Light, Synthoceps
+dimwishlist:item=2273643087&perks=1476923953,1476923956#notes:Source:OG Banana Squad PVE
+//Necrotic, Claw
+dimwishlist:item=2273643087&perks=183430252,183430247#notes:Source:Aztecross Video PVE
+//Osmiomancy, Harmony
+dimwishlist:item=2273643087&perks=183430253,183430254#notes:Source:OG Banana Squad PVE
+//Osmiomancy, Star-Eater
+dimwishlist:item=2273643087&perks=183430253,1476923955#notes:Source:OG Banana Squad PVE
+//Osmiomancy, Verity
+dimwishlist:item=2273643087&perks=183430253,1476923957#notes:Source:OG Banana Squad PVE Very good...pair with Vortex grenade
+//Ophidian, Claw
+dimwishlist:item=2273643087&perks=1476923954,183430247#notes:Source:OG Banana Squad PVP First Choice
+//Ophidian, Harmony
+dimwishlist:item=2273643087&perks=1476923954,183430254#notes:Source:OG Banana Squad PVP Second Choice
 
 //*** HAND CANNONS ***
 
