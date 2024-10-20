@@ -53,6 +53,10 @@ dimwishlist:item=2273643087&perks=1476923954,183430254#notes:Source:OG Banana Sq
 
 //*** HAND CANNONS ***
 
+//Exuviae
+//Headstone, Rimestealer
+dimwishlist:item=2823644677&perks=1955165503,124408337#notes:Source:Coolguy:https://www.youtube.com/watch?v=01lYlg_Ahzs
+
 //Bold Endings
 //Fluted Barrel, Flared Magwell, Enhanced Headstone, Enhanced Demolitionist
 dimwishlist:item=496728945&perks=1840239774,3230963543,1171887445,1906147653#notes:Source:OG Banana via Coolguy - Reload MW Tag:PVE
